@@ -30,9 +30,9 @@
 
 ---
 
-## Contract Functions
 
-### 1. `defineLevel(uint256 expRequired, uint256 nftId)`
 
-```solidity
-function defineLevel(uint256 expRequired, uint256 nftId) external onlyOwner
+## Deployment
+The contract has been deployed on the Sepolia testnet.
+Contract Address: 0x808EdCf3F03AcA7d4fAF2ff084f1623952C7CF59
+
